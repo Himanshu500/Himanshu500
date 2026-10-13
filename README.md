@@ -1,7 +1,7 @@
 # Hi, I'm Himanshu Kumar 👋
 ### Insurance Analytics & InsurTech Specialist | III Licentiate Certified
 
-[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-himanshu500.github.io%2FPortfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://himanshu500.github.io/Portfolio/)
+[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-himanshukumar.vercel.app-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://himanshukumar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hk--portfolio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hk-portfolio)
 [![Licentiate](https://img.shields.io/badge/III-Licentiate%20Certified-10b981?style=for-the-badge)](https://www.insuranceinstituteofindia.com/)
 
@@ -25,7 +25,7 @@
 ---
 
 ## 🔗 Connect & Explore
-* 🌐 **Personal Portfolio:** [himanshu500.github.io/Portfolio](https://himanshu500.github.io/Portfolio/)
+* 🌐 **Personal Portfolio:** [himanshukumar.vercel.app](https://himanshukumar.vercel.app/)
 * 💼 **LinkedIn:** [linkedin.com/in/hk-portfolio](https://www.linkedin.com/in/hk-portfolio)
 * 📧 **Email:** [hk486888@gmail.com](mailto:hk486888@gmail.com)
 * 📍 **Location:** Indore, Madhya Pradesh, India
